@@ -1,2 +1,7 @@
 # hello-world
-Test to learn how to use git
+
+This is a test to refresh my memory on Github!
+
+Sincerelly,
+
+FERN
